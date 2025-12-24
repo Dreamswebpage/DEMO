@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Disallow specific paths if needed (e.g., admin areas)
+# Disallow: /admin
+# Disallow: /api/
